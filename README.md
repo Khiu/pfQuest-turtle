@@ -1,6 +1,7 @@
 ## Notes
 Added quests and npc's from the database, some info is wrong and some quests and npc's are missing. I skipped the quests descriptions.
-Missing quests [here](https://github.com/Khiu/TurtleWoW/blob/main/skippedquests.txt)
+
+Missing quests [here](https://github.com/Khiu/TurtleWoW/blob/main/skippedquests.txt)  
 Missing npc's [here](https://github.com/Khiu/TurtleWoW/blob/main/npcWithoutCoords.txt) and [here](https://github.com/Khiu/TurtleWoW/blob/main/npcZoneZero.txt)
 
 # pfQuest (turtle)
