@@ -1,3 +1,8 @@
+## Notes
+Added quests and npc's from the database, some info is wrong and some quests and npc's are missing. I skipped the quests descriptions.
+Missing quests [here](https://github.com/Khiu/TurtleWoW/blob/main/skippedquests.txt)
+Missing npc's [here](https://github.com/Khiu/TurtleWoW/blob/main/npcWithoutCoords.txt) and [here](https://github.com/Khiu/TurtleWoW/blob/main/npcZoneZero.txt)
+
 # pfQuest (turtle)
 This AddOn is a [pfQuest](https://github.com/shagu/pfQuest) extension, which adds support for the [TurtleWoW](https://turtle-wow.org/) Private Server. In order to run this extension, the latest version of [pfQuest](https://github.com/shagu/pfQuest) is always required and only enUS-Gameclients are supported.
 

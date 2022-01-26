@@ -779,4 +779,2494 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Speak with Diane Willowfield to learn the ability to train and feed your pets.",
     ["D"] = "You now have the power to tame a pet, but you must also gain the skills to train it.",
   },
+  [40285] = {
+    ["T"] = "A Blademaster's Request",
+    ["O"] = "A Blademaster's Request",
+    ["D"] = "A Blademaster's Request",
+  },
+  [40036] = {
+    ["T"] = "A Broken Oath",
+    ["O"] = "A Broken Oath",
+    ["D"] = "A Broken Oath",
+  },
+  [40174] = {
+    ["T"] = "A Cannon's Misfortune",
+    ["O"] = "A Cannon's Misfortune",
+    ["D"] = "A Cannon's Misfortune",
+  },
+  [60142] = {
+    ["T"] = "A Change Of Heart",
+    ["O"] = "A Change Of Heart",
+    ["D"] = "A Change Of Heart",
+  },
+  [80252] = {
+    ["T"] = "A Crystal Clear Task",
+    ["O"] = "A Crystal Clear Task",
+    ["D"] = "A Crystal Clear Task",
+  },
+  [60111] = {
+    ["T"] = "A Decisive Blow",
+    ["O"] = "A Decisive Blow",
+    ["D"] = "A Decisive Blow",
+  },
+  [40074] = {
+    ["T"] = "A Delivery of Swords",
+    ["O"] = "A Delivery of Swords",
+    ["D"] = "A Delivery of Swords",
+  },
+  [80372] = {
+    ["T"] = "A Donation of Mageweave",
+    ["O"] = "A Donation of Mageweave",
+    ["D"] = "A Donation of Mageweave",
+  },
+  [80373] = {
+    ["T"] = "A Donation of Runecloth",
+    ["O"] = "A Donation of Runecloth",
+    ["D"] = "A Donation of Runecloth",
+  },
+  [80371] = {
+    ["T"] = "A Donation of Silk",
+    ["O"] = "A Donation of Silk",
+    ["D"] = "A Donation of Silk",
+  },
+  [80370] = {
+    ["T"] = "A Donation of Wool",
+    ["O"] = "A Donation of Wool",
+    ["D"] = "A Donation of Wool",
+  },
+  [80720] = {
+    ["T"] = "A Dreadful Summon",
+    ["O"] = "A Dreadful Summon",
+    ["D"] = "A Dreadful Summon",
+  },
+  [40237] = {
+    ["T"] = "A Favor for Farsan",
+    ["O"] = "A Favor for Farsan",
+    ["D"] = "A Favor for Farsan",
+  },
+  [80386] = {
+    ["T"] = "A Gizmo a Day...",
+    ["O"] = "A Gizmo a Day...",
+    ["D"] = "A Gizmo a Day...",
+  },
+  [80604] = {
+    ["T"] = "A Journey Into The Caverns",
+    ["O"] = "A Journey Into The Caverns",
+    ["D"] = "A Journey Into The Caverns",
+  },
+  [55038] = {
+    ["T"] = "A Late Delivery",
+    ["O"] = "A Late Delivery",
+    ["D"] = "A Late Delivery",
+  },
+  [80407] = {
+    ["T"] = "A Letter From a Friend",
+    ["O"] = "A Letter From a Friend",
+    ["D"] = "A Letter From a Friend",
+  },
+  [80292] = {
+    ["T"] = "A Lone Homecoming",
+    ["O"] = "A Lone Homecoming",
+    ["D"] = "A Lone Homecoming",
+  },
+  [40204] = {
+    ["T"] = "A Meeting With Adaena",
+    ["O"] = "A Meeting With Adaena",
+    ["D"] = "A Meeting With Adaena",
+  },
+  [40034] = {
+    ["T"] = "A Meeting With Royalty",
+    ["O"] = "A Meeting With Royalty",
+    ["D"] = "A Meeting With Royalty",
+  },
+  [40238] = {
+    ["T"] = "A Meeting With The Dreadlord",
+    ["O"] = "A Meeting With The Dreadlord",
+    ["D"] = "A Meeting With The Dreadlord",
+  },
+  [80220] = {
+    ["T"] = "A New Place in Stormwind",
+    ["O"] = "A New Place in Stormwind",
+    ["D"] = "A New Place in Stormwind",
+  },
+  [40234] = {
+    ["T"] = "A New Rune-Frontier",
+    ["O"] = "A New Rune-Frontier",
+    ["D"] = "A New Rune-Frontier",
+  },
+  [80002] = {
+    ["T"] = "A Noble Fear",
+    ["O"] = "A Noble Fear",
+    ["D"] = "A Noble Fear",
+  },
+  [40069] = {
+    ["T"] = "A People Restored",
+    ["O"] = "A People Restored",
+    ["D"] = "A People Restored",
+  },
+  [40207] = {
+    ["T"] = "A Pinch of Venom",
+    ["O"] = "A Pinch of Venom",
+    ["D"] = "A Pinch of Venom",
+  },
+  [55218] = {
+    ["T"] = "A Potential Clue",
+    ["O"] = "A Potential Clue",
+    ["D"] = "A Potential Clue",
+  },
+  [40130] = {
+    ["T"] = "A Profitable Aquisition",
+    ["O"] = "A Profitable Aquisition",
+    ["D"] = "A Profitable Aquisition",
+  },
+  [40060] = {
+    ["T"] = "A Quest for the Moonwell",
+    ["O"] = "A Quest for the Moonwell",
+    ["D"] = "A Quest for the Moonwell",
+  },
+  [40300] = {
+    ["T"] = "A Secret Admirer",
+    ["O"] = "A Secret Admirer",
+    ["D"] = "A Secret Admirer",
+  },
+  [70057] = {
+    ["T"] = "A Simple Memory",
+    ["O"] = "A Simple Memory",
+    ["D"] = "A Simple Memory",
+  },
+  [80408] = {
+    ["T"] = "A Slaughter for Brains",
+    ["O"] = "A Slaughter for Brains",
+    ["D"] = "A Slaughter for Brains",
+  },
+  [70000] = {
+    ["T"] = "A Special Kind of Summons",
+    ["O"] = "A Special Kind of Summons",
+    ["D"] = "A Special Kind of Summons",
+  },
+  [40070] = {
+    ["T"] = "A Thalassian Threat",
+    ["O"] = "A Thalassian Threat",
+    ["D"] = "A Thalassian Threat",
+  },
+  [80410] = {
+    ["T"] = "A Timely Situation",
+    ["O"] = "A Timely Situation",
+    ["D"] = "A Timely Situation",
+  },
+  [80300] = {
+    ["T"] = "A Tusken Affair",
+    ["O"] = "A Tusken Affair",
+    ["D"] = "A Tusken Affair",
+  },
+  [80369] = {
+    ["T"] = "A Warm Feeling",
+    ["O"] = "A Warm Feeling",
+    ["D"] = "A Warm Feeling",
+  },
+  [40327] = {
+    ["T"] = "Abandoned Equipment",
+    ["O"] = "Abandoned Equipment",
+    ["D"] = "Abandoned Equipment",
+  },
+  [55030] = {
+    ["T"] = "Acquiring Information",
+    ["O"] = "Acquiring Information",
+    ["D"] = "Acquiring Information",
+  },
+  [80374] = {
+    ["T"] = "Additional Runecloth",
+    ["O"] = "Additional Runecloth",
+    ["D"] = "Additional Runecloth",
+  },
+  [80379] = {
+    ["T"] = "Additional Runecloth",
+    ["O"] = "Additional Runecloth",
+    ["D"] = "Additional Runecloth",
+  },
+  [40246] = {
+    ["T"] = "Aged Deep-Rod",
+    ["O"] = "Aged Deep-Rod",
+    ["D"] = "Aged Deep-Rod",
+  },
+  [40120] = {
+    ["T"] = "Aggresive Wildlife",
+    ["O"] = "Aggresive Wildlife",
+    ["D"] = "Aggresive Wildlife",
+  },
+  [80004] = {
+    ["T"] = "Alien Artifact",
+    ["O"] = "Alien Artifact",
+    ["D"] = "Alien Artifact",
+  },
+  [40121] = {
+    ["T"] = "Alpha Aggression",
+    ["O"] = "Alpha Aggression",
+    ["D"] = "Alpha Aggression",
+  },
+  [40128] = {
+    ["T"] = "An Ancient Aquisition",
+    ["O"] = "An Ancient Aquisition",
+    ["D"] = "An Ancient Aquisition",
+  },
+  [40062] = {
+    ["T"] = "An Azure Scale for Gnomeregan!",
+    ["O"] = "An Azure Scale for Gnomeregan!",
+    ["D"] = "An Azure Scale for Gnomeregan!",
+  },
+  [80411] = {
+    ["T"] = "An Infinite Hunt",
+    ["O"] = "An Infinite Hunt",
+    ["D"] = "An Infinite Hunt",
+  },
+  [40323] = {
+    ["T"] = "An Offering for Kaneq'nuun",
+    ["O"] = "An Offering for Kaneq'nuun",
+    ["D"] = "An Offering for Kaneq'nuun",
+  },
+  [40212] = {
+    ["T"] = "An Old Friend",
+    ["O"] = "An Old Friend",
+    ["D"] = "An Old Friend",
+  },
+  [40229] = {
+    ["T"] = "Angor Fortress",
+    ["O"] = "Angor Fortress",
+    ["D"] = "Angor Fortress",
+  },
+  [40335] = {
+    ["T"] = "Another Day of Labor",
+    ["O"] = "Another Day of Labor",
+    ["D"] = "Another Day of Labor",
+  },
+  [40010] = {
+    ["T"] = "Antler's Guidance",
+    ["O"] = "Antler's Guidance",
+    ["D"] = "Antler's Guidance",
+  },
+  [40011] = {
+    ["T"] = "Antler's Guidance",
+    ["O"] = "Antler's Guidance",
+    ["D"] = "Antler's Guidance",
+  },
+  [80315] = {
+    ["T"] = "Apple a Day",
+    ["O"] = "Apple a Day",
+    ["D"] = "Apple a Day",
+  },
+  [40072] = {
+    ["T"] = "Areyntall Family Value",
+    ["O"] = "Areyntall Family Value",
+    ["D"] = "Areyntall Family Value",
+  },
+  [60108] = {
+    ["T"] = "Arugal's Folly",
+    ["O"] = "Arugal's Folly",
+    ["D"] = "Arugal's Folly",
+  },
+  [40193] = {
+    ["T"] = "Ashenvale Corruption",
+    ["O"] = "Ashenvale Corruption",
+    ["D"] = "Ashenvale Corruption",
+  },
+  [40023] = {
+    ["T"] = "Assisting Lord Rog",
+    ["O"] = "Assisting Lord Rog",
+    ["D"] = "Assisting Lord Rog",
+  },
+  [80250] = {
+    ["T"] = "Assisting the Children of the Sun",
+    ["O"] = "Assisting the Children of the Sun",
+    ["D"] = "Assisting the Children of the Sun",
+  },
+  [40079] = {
+    ["T"] = "Avoiding Detection",
+    ["O"] = "Avoiding Detection",
+    ["D"] = "Avoiding Detection",
+  },
+  [40283] = {
+    ["T"] = "Azsharan Front",
+    ["O"] = "Azsharan Front",
+    ["D"] = "Azsharan Front",
+  },
+  [40138] = {
+    ["T"] = "Bandit Lord",
+    ["O"] = "Bandit Lord",
+    ["D"] = "Bandit Lord",
+  },
+  [40160] = {
+    ["T"] = "Bengal Fangs",
+    ["O"] = "Bengal Fangs",
+    ["D"] = "Bengal Fangs",
+  },
+  [40071] = {
+    ["T"] = "Biggs' Report to Sorrowguard",
+    ["O"] = "Biggs' Report to Sorrowguard",
+    ["D"] = "Biggs' Report to Sorrowguard",
+  },
+  [40257] = {
+    ["T"] = "Blackrock Slayers",
+    ["O"] = "Blackrock Slayers",
+    ["D"] = "Blackrock Slayers",
+  },
+  [40256] = {
+    ["T"] = "Blackrock and Roll",
+    ["O"] = "Blackrock and Roll",
+    ["D"] = "Blackrock and Roll",
+  },
+  [40284] = {
+    ["T"] = "Blood and Glory!",
+    ["O"] = "Blood and Glory!",
+    ["D"] = "Blood and Glory!",
+  },
+  [50318] = {
+    ["T"] = "Bracing The Inevitable",
+    ["O"] = "Bracing The Inevitable",
+    ["D"] = "Bracing The Inevitable",
+  },
+  [60143] = {
+    ["T"] = "Brannol's Sewing Kit",
+    ["O"] = "Brannol's Sewing Kit",
+    ["D"] = "Brannol's Sewing Kit",
+  },
+  [40223] = {
+    ["T"] = "Breaking Contracts",
+    ["O"] = "Breaking Contracts",
+    ["D"] = "Breaking Contracts",
+  },
+  [40050] = {
+    ["T"] = "Breaking the Felstar",
+    ["O"] = "Breaking the Felstar",
+    ["D"] = "Breaking the Felstar",
+  },
+  [60074] = {
+    ["T"] = "Bring Down the Priestess!",
+    ["O"] = "Bring Down the Priestess!",
+    ["D"] = "Bring Down the Priestess!",
+  },
+  [80206] = {
+    ["T"] = "Burnt Wheels",
+    ["O"] = "Burnt Wheels",
+    ["D"] = "Burnt Wheels",
+  },
+  [40228] = {
+    ["T"] = "Captain Barlgruf",
+    ["O"] = "Captain Barlgruf",
+    ["D"] = "Captain Barlgruf",
+  },
+  [40187] = {
+    ["T"] = "Captain of the Bloodsail Buccaneers",
+    ["O"] = "Captain of the Bloodsail Buccaneers",
+    ["D"] = "Captain of the Bloodsail Buccaneers",
+  },
+  [40336] = {
+    ["T"] = "Charming a Charmer",
+    ["O"] = "Charming a Charmer",
+    ["D"] = "Charming a Charmer",
+  },
+  [40291] = {
+    ["T"] = "Claws for Bloodfist Point",
+    ["O"] = "Claws for Bloodfist Point",
+    ["D"] = "Claws for Bloodfist Point",
+  },
+  [80203] = {
+    ["T"] = "Clearing Out Vermin",
+    ["O"] = "Clearing Out Vermin",
+    ["D"] = "Clearing Out Vermin",
+  },
+  [40206] = {
+    ["T"] = "Collecting Mushrooms",
+    ["O"] = "Collecting Mushrooms",
+    ["D"] = "Collecting Mushrooms",
+  },
+  [80724] = {
+    ["T"] = "Consulting an Expert",
+    ["O"] = "Consulting an Expert",
+    ["D"] = "Consulting an Expert",
+  },
+  [40340] = {
+    ["T"] = "Corrupted Sand",
+    ["O"] = "Corrupted Sand",
+    ["D"] = "Corrupted Sand",
+  },
+  [60071] = {
+    ["T"] = "Cracking the Witherbark",
+    ["O"] = "Cracking the Witherbark",
+    ["D"] = "Cracking the Witherbark",
+  },
+  [80391] = {
+    ["T"] = "Crawling for Meat",
+    ["O"] = "Crawling for Meat",
+    ["D"] = "Crawling for Meat",
+  },
+  [40176] = {
+    ["T"] = "Crumbling Allies",
+    ["O"] = "Crumbling Allies",
+    ["D"] = "Crumbling Allies",
+  },
+  [39001] = {
+    ["T"] = "Curiosity Leads Us Forward",
+    ["O"] = "Curiosity Leads Us Forward",
+    ["D"] = "Curiosity Leads Us Forward",
+  },
+  [80207] = {
+    ["T"] = "Dark Iron Scrapping",
+    ["O"] = "Dark Iron Scrapping",
+    ["D"] = "Dark Iron Scrapping",
+  },
+  [80727] = {
+    ["T"] = "Dark Temper for a Dark Lady",
+    ["O"] = "Dark Temper for a Dark Lady",
+    ["D"] = "Dark Temper for a Dark Lady",
+  },
+  [40282] = {
+    ["T"] = "Darlthos Legacy",
+    ["O"] = "Darlthos Legacy",
+    ["D"] = "Darlthos Legacy",
+  },
+  [60073] = {
+    ["T"] = "Decimate Their Ranks",
+    ["O"] = "Decimate Their Ranks",
+    ["D"] = "Decimate Their Ranks",
+  },
+  [40275] = {
+    ["T"] = "Deeptide Sanctum",
+    ["O"] = "Deeptide Sanctum",
+    ["D"] = "Deeptide Sanctum",
+  },
+  [70055] = {
+    ["T"] = "Defias of Duskwood",
+    ["O"] = "Defias of Duskwood",
+    ["D"] = "Defias of Duskwood",
+  },
+  [40042] = {
+    ["T"] = "Delivery for Bromley",
+    ["O"] = "Delivery for Bromley",
+    ["D"] = "Delivery for Bromley",
+  },
+  [80404] = {
+    ["T"] = "Delivery for Drazzit",
+    ["O"] = "Delivery for Drazzit",
+    ["D"] = "Delivery for Drazzit",
+  },
+  [40224] = {
+    ["T"] = "Delivery for Oilfuse",
+    ["O"] = "Delivery for Oilfuse",
+    ["D"] = "Delivery for Oilfuse",
+  },
+  [40276] = {
+    ["T"] = "Destroying the Deeptide",
+    ["O"] = "Destroying the Deeptide",
+    ["D"] = "Destroying the Deeptide",
+  },
+  [40126] = {
+    ["T"] = "Discovering the Source",
+    ["O"] = "Discovering the Source",
+    ["D"] = "Discovering the Source",
+  },
+  [40292] = {
+    ["T"] = "Disturbance in the Air",
+    ["O"] = "Disturbance in the Air",
+    ["D"] = "Disturbance in the Air",
+  },
+  [40032] = {
+    ["T"] = "Draenic Communication",
+    ["O"] = "Draenic Communication",
+    ["D"] = "Draenic Communication",
+  },
+  [40294] = {
+    ["T"] = "Dragons of Azshara?",
+    ["O"] = "Dragons of Azshara?",
+    ["D"] = "Dragons of Azshara?",
+  },
+  [40150] = {
+    ["T"] = "Drowning Deeptide",
+    ["O"] = "Drowning Deeptide",
+    ["D"] = "Drowning Deeptide",
+  },
+  [55025] = {
+    ["T"] = "Dry Hiding",
+    ["O"] = "Dry Hiding",
+    ["D"] = "Dry Hiding",
+  },
+  [55009] = {
+    ["T"] = "Empty Handed",
+    ["O"] = "Empty Handed",
+    ["D"] = "Empty Handed",
+  },
+  [80393] = {
+    ["T"] = "Errand for Quel'Danil",
+    ["O"] = "Errand for Quel'Danil",
+    ["D"] = "Errand for Quel'Danil",
+  },
+  [80350] = {
+    ["T"] = "Etched Rune",
+    ["O"] = "Etched Rune",
+    ["D"] = "Etched Rune",
+  },
+  [40179] = {
+    ["T"] = "Exterminate the Rat",
+    ["O"] = "Exterminate the Rat",
+    ["D"] = "Exterminate the Rat",
+  },
+  [40152] = {
+    ["T"] = "Faelon's Folly",
+    ["O"] = "Faelon's Folly",
+    ["D"] = "Faelon's Folly",
+  },
+  [80200] = {
+    ["T"] = "Farstrider Lodge",
+    ["O"] = "Farstrider Lodge",
+    ["D"] = "Farstrider Lodge",
+  },
+  [60030] = {
+    ["T"] = "Fashion Demands Sacrifices",
+    ["O"] = "Fashion Demands Sacrifices",
+    ["D"] = "Fashion Demands Sacrifices",
+  },
+  [60031] = {
+    ["T"] = "Fashion Demands Sacrifices",
+    ["O"] = "Fashion Demands Sacrifices",
+    ["D"] = "Fashion Demands Sacrifices",
+  },
+  [60032] = {
+    ["T"] = "Fashion Demands Sacrifices",
+    ["O"] = "Fashion Demands Sacrifices",
+    ["D"] = "Fashion Demands Sacrifices",
+  },
+  [60033] = {
+    ["T"] = "Fashion Demands Sacrifices",
+    ["O"] = "Fashion Demands Sacrifices",
+    ["D"] = "Fashion Demands Sacrifices",
+  },
+  [60034] = {
+    ["T"] = "Fashion Demands Sacrifices",
+    ["O"] = "Fashion Demands Sacrifices",
+    ["D"] = "Fashion Demands Sacrifices",
+  },
+  [60035] = {
+    ["T"] = "Fashion Demands Sacrifices",
+    ["O"] = "Fashion Demands Sacrifices",
+    ["D"] = "Fashion Demands Sacrifices",
+  },
+  [40067] = {
+    ["T"] = "Fendo's Spanner",
+    ["O"] = "Fendo's Spanner",
+    ["D"] = "Fendo's Spanner",
+  },
+  [40146] = {
+    ["T"] = "Feran's Report",
+    ["O"] = "Feran's Report",
+    ["D"] = "Feran's Report",
+  },
+  [55037] = {
+    ["T"] = "Filling Back-Orders",
+    ["O"] = "Filling Back-Orders",
+    ["D"] = "Filling Back-Orders",
+  },
+  [40033] = {
+    ["T"] = "Finding Akh Z'ador",
+    ["O"] = "Finding Akh Z'ador",
+    ["D"] = "Finding Akh Z'ador",
+  },
+  [40217] = {
+    ["T"] = "Finding Embergut",
+    ["O"] = "Finding Embergut",
+    ["D"] = "Finding Embergut",
+  },
+  [50241] = {
+    ["T"] = "Finding The Forgotten",
+    ["O"] = "Finding The Forgotten",
+    ["D"] = "Finding The Forgotten",
+  },
+  [40183] = {
+    ["T"] = "First Mate McCoy",
+    ["O"] = "First Mate McCoy",
+    ["D"] = "First Mate McCoy",
+  },
+  [40041] = {
+    ["T"] = "Flaxwhisker Loyalty",
+    ["O"] = "Flaxwhisker Loyalty",
+    ["D"] = "Flaxwhisker Loyalty",
+  },
+  [40076] = {
+    ["T"] = "Food Improvision",
+    ["O"] = "Food Improvision",
+    ["D"] = "Food Improvision",
+  },
+  [40290] = {
+    ["T"] = "Food for Bloodfist Point",
+    ["O"] = "Food for Bloodfist Point",
+    ["D"] = "Food for Bloodfist Point",
+  },
+  [55008] = {
+    ["T"] = "Frix's Folly",
+    ["O"] = "Frix's Folly",
+    ["D"] = "Frix's Folly",
+  },
+  [50315] = {
+    ["T"] = "Gadgetzan Times: BREAKING NEWS!",
+    ["O"] = "Gadgetzan Times: BREAKING NEWS!",
+    ["D"] = "Gadgetzan Times: BREAKING NEWS!",
+  },
+  [40107] = {
+    ["T"] = "Gate Keeper",
+    ["O"] = "Gate Keeper",
+    ["D"] = "Gate Keeper",
+  },
+  [80204] = {
+    ["T"] = "Gathering Intel",
+    ["O"] = "Gathering Intel",
+    ["D"] = "Gathering Intel",
+  },
+  [60110] = {
+    ["T"] = "Githyiss the Vile",
+    ["O"] = "Githyiss the Vile",
+    ["D"] = "Githyiss the Vile",
+  },
+  [50312] = {
+    ["T"] = "Gnomes Are Genuine Inventors",
+    ["O"] = "Gnomes Are Genuine Inventors",
+    ["D"] = "Gnomes Are Genuine Inventors",
+  },
+  [50310] = {
+    ["T"] = "Goblin Engineering At It's Finest!",
+    ["O"] = "Goblin Engineering At It's Finest!",
+    ["D"] = "Goblin Engineering At It's Finest!",
+  },
+  [40016] = {
+    ["T"] = "Gortog's Beads",
+    ["O"] = "Gortog's Beads",
+    ["D"] = "Gortog's Beads",
+  },
+  [55010] = {
+    ["T"] = "Grabbing the Gear",
+    ["O"] = "Grabbing the Gear",
+    ["D"] = "Grabbing the Gear",
+  },
+  [70054] = {
+    ["T"] = "Grave Injustice",
+    ["O"] = "Grave Injustice",
+    ["D"] = "Grave Injustice",
+  },
+  [80721] = {
+    ["T"] = "Grim News",
+    ["O"] = "Grim News",
+    ["D"] = "Grim News",
+  },
+  [55050] = {
+    ["T"] = "Grizlik's Wish",
+    ["O"] = "Grizlik's Wish",
+    ["D"] = "Grizlik's Wish",
+  },
+  [50326] = {
+    ["T"] = "Grizzlore Wants Thunder",
+    ["O"] = "Grizzlore Wants Thunder",
+    ["D"] = "Grizzlore Wants Thunder",
+  },
+  [40161] = {
+    ["T"] = "Hazu Leaf",
+    ["O"] = "Hazu Leaf",
+    ["D"] = "Hazu Leaf",
+  },
+  [40157] = {
+    ["T"] = "Hazzuri Dark Vessels",
+    ["O"] = "Hazzuri Dark Vessels",
+    ["D"] = "Hazzuri Dark Vessels",
+  },
+  [60010] = {
+    ["T"] = "Help A Gnome Out",
+    ["O"] = "Help A Gnome Out",
+    ["D"] = "Help A Gnome Out",
+  },
+  [55101] = {
+    ["T"] = "Help The League?",
+    ["O"] = "Help The League?",
+    ["D"] = "Help The League?",
+  },
+  [80260] = {
+    ["T"] = "Help With a Compassionate Matter",
+    ["O"] = "Help With a Compassionate Matter",
+    ["D"] = "Help With a Compassionate Matter",
+  },
+  [55206] = {
+    ["T"] = "Hunting Dragonmaw",
+    ["O"] = "Hunting Dragonmaw",
+    ["D"] = "Hunting Dragonmaw",
+  },
+  [40029] = {
+    ["T"] = "Hunting the Hunters",
+    ["O"] = "Hunting the Hunters",
+    ["D"] = "Hunting the Hunters",
+  },
+  [40325] = {
+    ["T"] = "Icepoint Whiteclaws",
+    ["O"] = "Icepoint Whiteclaws",
+    ["D"] = "Icepoint Whiteclaws",
+  },
+  [55300] = {
+    ["T"] = "Imperial Plate Gauntlets",
+    ["O"] = "Imperial Plate Gauntlets",
+    ["D"] = "Imperial Plate Gauntlets",
+  },
+  [80725] = {
+    ["T"] = "In Guntherâ€™s Favor",
+    ["O"] = "In Guntherâ€™s Favor",
+    ["D"] = "In Guntherâ€™s Favor",
+  },
+  [40063] = {
+    ["T"] = "In Need of Sprugbolts",
+    ["O"] = "In Need of Sprugbolts",
+    ["D"] = "In Need of Sprugbolts",
+  },
+  [40192] = {
+    ["T"] = "In Search of Corruption",
+    ["O"] = "In Search of Corruption",
+    ["D"] = "In Search of Corruption",
+  },
+  [40025] = {
+    ["T"] = "Inner Binding Purification",
+    ["O"] = "Inner Binding Purification",
+    ["D"] = "Inner Binding Purification",
+  },
+  [40222] = {
+    ["T"] = "Intercepted Shipment",
+    ["O"] = "Intercepted Shipment",
+    ["D"] = "Intercepted Shipment",
+  },
+  [40124] = {
+    ["T"] = "Interfering Naga",
+    ["O"] = "Interfering Naga",
+    ["D"] = "Interfering Naga",
+  },
+  [55222] = {
+    ["T"] = "Investigating Corinth",
+    ["O"] = "Investigating Corinth",
+    ["D"] = "Investigating Corinth",
+  },
+  [40073] = {
+    ["T"] = "Iron for Sorrowguard",
+    ["O"] = "Iron for Sorrowguard",
+    ["D"] = "Iron for Sorrowguard",
+  },
+  [40211] = {
+    ["T"] = "Jadefire Revenge",
+    ["O"] = "Jadefire Revenge",
+    ["D"] = "Jadefire Revenge",
+  },
+  [55100] = {
+    ["T"] = "Join The League!",
+    ["O"] = "Join The League!",
+    ["D"] = "Join The League!",
+  },
+  [50328] = {
+    ["T"] = "Jolly Holly Dances Prolly",
+    ["O"] = "Jolly Holly Dances Prolly",
+    ["D"] = "Jolly Holly Dances Prolly",
+  },
+  [80219] = {
+    ["T"] = "KABOOM!",
+    ["O"] = "KABOOM!",
+    ["D"] = "KABOOM!",
+  },
+  [40326] = {
+    ["T"] = "Kalanar's Mallet",
+    ["O"] = "Kalanar's Mallet",
+    ["D"] = "Kalanar's Mallet",
+  },
+  [40038] = {
+    ["T"] = "Keeping Command",
+    ["O"] = "Keeping Command",
+    ["D"] = "Keeping Command",
+  },
+  [40254] = {
+    ["T"] = "Keeping Secrets",
+    ["O"] = "Keeping Secrets",
+    ["D"] = "Keeping Secrets",
+  },
+  [40061] = {
+    ["T"] = "Killing the Tide Lord",
+    ["O"] = "Killing the Tide Lord",
+    ["D"] = "Killing the Tide Lord",
+  },
+  [40240] = {
+    ["T"] = "Knowledge of Lorthiras",
+    ["O"] = "Knowledge of Lorthiras",
+    ["D"] = "Knowledge of Lorthiras",
+  },
+  [60020] = {
+    ["T"] = "Lady Janira",
+    ["O"] = "Lady Janira",
+    ["D"] = "Lady Janira",
+  },
+  [40186] = {
+    ["T"] = "Land ho? More like land no",
+    ["O"] = "Land ho? More like land no",
+    ["D"] = "Land ho? More like land no",
+  },
+  [70058] = {
+    ["T"] = "Law & Ogre",
+    ["O"] = "Law & Ogre",
+    ["D"] = "Law & Ogre",
+  },
+  [40031] = {
+    ["T"] = "Leather, a Draenic Luxury",
+    ["O"] = "Leather, a Draenic Luxury",
+    ["D"] = "Leather, a Draenic Luxury",
+  },
+  [80390] = {
+    ["T"] = "Letter to Mudsprocket",
+    ["O"] = "Letter to Mudsprocket",
+    ["D"] = "Letter to Mudsprocket",
+  },
+  [80301] = {
+    ["T"] = "Lighting the Pyres",
+    ["O"] = "Lighting the Pyres",
+    ["D"] = "Lighting the Pyres",
+  },
+  [50010] = {
+    ["T"] = "Little Lost Turtles",
+    ["O"] = "Little Lost Turtles",
+    ["D"] = "Little Lost Turtles",
+  },
+  [80380] = {
+    ["T"] = "Lizzi's Competitor",
+    ["O"] = "Lizzi's Competitor",
+    ["D"] = "Lizzi's Competitor",
+  },
+  [40024] = {
+    ["T"] = "Lord Rog's Exiles",
+    ["O"] = "Lord Rog's Exiles",
+    ["D"] = "Lord Rog's Exiles",
+  },
+  [40026] = {
+    ["T"] = "Lord Rog's Favor",
+    ["O"] = "Lord Rog's Favor",
+    ["D"] = "Lord Rog's Favor",
+  },
+  [40045] = {
+    ["T"] = "Lorie's Logbook",
+    ["O"] = "Lorie's Logbook",
+    ["D"] = "Lorie's Logbook",
+  },
+  [40178] = {
+    ["T"] = "Loss of Good Rum",
+    ["O"] = "Loss of Good Rum",
+    ["D"] = "Loss of Good Rum",
+  },
+  [40092] = {
+    ["T"] = "Lost and Stranded",
+    ["O"] = "Lost and Stranded",
+    ["D"] = "Lost and Stranded",
+  },
+  [70001] = {
+    ["T"] = "Lost to the Sands",
+    ["O"] = "Lost to the Sands",
+    ["D"] = "Lost to the Sands",
+  },
+  [60007] = {
+    ["T"] = "Lulu Looks Luscious to Lupines",
+    ["O"] = "Lulu Looks Luscious to Lupines",
+    ["D"] = "Lulu Looks Luscious to Lupines",
+  },
+  [40196] = {
+    ["T"] = "Lykourgos",
+    ["O"] = "Lykourgos",
+    ["D"] = "Lykourgos",
+  },
+  [40185] = {
+    ["T"] = "Magical Compass",
+    ["O"] = "Magical Compass",
+    ["D"] = "Magical Compass",
+  },
+  [40084] = {
+    ["T"] = "Magical Interference",
+    ["O"] = "Magical Interference",
+    ["D"] = "Magical Interference",
+  },
+  [60036] = {
+    ["T"] = "Make the Right Choice",
+    ["O"] = "Make the Right Choice",
+    ["D"] = "Make the Right Choice",
+  },
+  [40180] = {
+    ["T"] = "Making a Statement",
+    ["O"] = "Making a Statement",
+    ["D"] = "Making a Statement",
+  },
+  [55224] = {
+    ["T"] = "Mathias' Letter",
+    ["O"] = "Mathias' Letter",
+    ["D"] = "Mathias' Letter",
+  },
+  [60070] = {
+    ["T"] = "Matter of Trust",
+    ["O"] = "Matter of Trust",
+    ["D"] = "Matter of Trust",
+  },
+  [50313] = {
+    ["T"] = "Mirage Raceway: Gnome's Team",
+    ["O"] = "Mirage Raceway: Gnome's Team",
+    ["D"] = "Mirage Raceway: Gnome's Team",
+  },
+  [50311] = {
+    ["T"] = "Mirage Raceway: Goblin's Team",
+    ["O"] = "Mirage Raceway: Goblin's Team",
+    ["D"] = "Mirage Raceway: Goblin's Team",
+  },
+  [80352] = {
+    ["T"] = "Money Down The Drain",
+    ["O"] = "Money Down The Drain",
+    ["D"] = "Money Down The Drain",
+  },
+  [70050] = {
+    ["T"] = "Ms. Fix-it!",
+    ["O"] = "Ms. Fix-it!",
+    ["D"] = "Ms. Fix-it!",
+  },
+  [40145] = {
+    ["T"] = "Mysteries of the Grove",
+    ["O"] = "Mysteries of the Grove",
+    ["D"] = "Mysteries of the Grove",
+  },
+  [40295] = {
+    ["T"] = "Mystery of Lake Mennar",
+    ["O"] = "Mystery of Lake Mennar",
+    ["D"] = "Mystery of Lake Mennar",
+  },
+  [40328] = {
+    ["T"] = "Naga Tridents",
+    ["O"] = "Naga Tridents",
+    ["D"] = "Naga Tridents",
+  },
+  [40251] = {
+    ["T"] = "Necklace of Insomnius",
+    ["O"] = "Necklace of Insomnius",
+    ["D"] = "Necklace of Insomnius",
+  },
+  [50230] = {
+    ["T"] = "Night's Exploration",
+    ["O"] = "Night's Exploration",
+    ["D"] = "Night's Exploration",
+  },
+  [40184] = {
+    ["T"] = "No Hope for Tomorrow",
+    ["O"] = "No Hope for Tomorrow",
+    ["D"] = "No Hope for Tomorrow",
+  },
+  [40030] = {
+    ["T"] = "Noboru the Cudgel",
+    ["O"] = "Noboru the Cudgel",
+    ["D"] = "Noboru the Cudgel",
+  },
+  [80309] = {
+    ["T"] = "Odo's Gut Feeling",
+    ["O"] = "Odo's Gut Feeling",
+    ["D"] = "Odo's Gut Feeling",
+  },
+  [70051] = {
+    ["T"] = "Oil-Stained Gold",
+    ["O"] = "Oil-Stained Gold",
+    ["D"] = "Oil-Stained Gold",
+  },
+  [40197] = {
+    ["T"] = "Old Greypaw",
+    ["O"] = "Old Greypaw",
+    ["D"] = "Old Greypaw",
+  },
+  [60005] = {
+    ["T"] = "Once Upon a Sheep",
+    ["O"] = "Once Upon a Sheep",
+    ["D"] = "Once Upon a Sheep",
+  },
+  [40101] = {
+    ["T"] = "Original Owner",
+    ["O"] = "Original Owner",
+    ["D"] = "Original Owner",
+  },
+  [55211] = {
+    ["T"] = "Oscilation Inhibited Disk!",
+    ["O"] = "Oscilation Inhibited Disk!",
+    ["D"] = "Oscilation Inhibited Disk!",
+  },
+  [40125] = {
+    ["T"] = "Out of Options",
+    ["O"] = "Out of Options",
+    ["D"] = "Out of Options",
+  },
+  [55219] = {
+    ["T"] = "Overlapping Investigations",
+    ["O"] = "Overlapping Investigations",
+    ["D"] = "Overlapping Investigations",
+  },
+  [80392] = {
+    ["T"] = "Package to Quel'Danil",
+    ["O"] = "Package to Quel'Danil",
+    ["D"] = "Package to Quel'Danil",
+  },
+  [60137] = {
+    ["T"] = "Palkeote",
+    ["O"] = "Palkeote",
+    ["D"] = "Palkeote",
+  },
+  [50330] = {
+    ["T"] = "Peace Comes at a Price",
+    ["O"] = "Peace Comes at a Price",
+    ["D"] = "Peace Comes at a Price",
+  },
+  [80217] = {
+    ["T"] = "Pelts and Tusks",
+    ["O"] = "Pelts and Tusks",
+    ["D"] = "Pelts and Tusks",
+  },
+  [60011] = {
+    ["T"] = "Piercing Light",
+    ["O"] = "Piercing Light",
+    ["D"] = "Piercing Light",
+  },
+  [60012] = {
+    ["T"] = "Piercing Light",
+    ["O"] = "Piercing Light",
+    ["D"] = "Piercing Light",
+  },
+  [70049] = {
+    ["T"] = "Pitch a Tent",
+    ["O"] = "Pitch a Tent",
+    ["D"] = "Pitch a Tent",
+  },
+  [80209] = {
+    ["T"] = "Porting to Goldshire",
+    ["O"] = "Porting to Goldshire",
+    ["D"] = "Porting to Goldshire",
+  },
+  [55200] = {
+    ["T"] = "Preparations for Adventure!",
+    ["O"] = "Preparations for Adventure!",
+    ["D"] = "Preparations for Adventure!",
+  },
+  [40017] = {
+    ["T"] = "Preparing for War",
+    ["O"] = "Preparing for War",
+    ["D"] = "Preparing for War",
+  },
+  [40105] = {
+    ["T"] = "Pride of The Dwarves",
+    ["O"] = "Pride of The Dwarves",
+    ["D"] = "Pride of The Dwarves",
+  },
+  [40329] = {
+    ["T"] = "Pristine Gorrila Pelt",
+    ["O"] = "Pristine Gorrila Pelt",
+    ["D"] = "Pristine Gorrila Pelt",
+  },
+  [50000] = {
+    ["T"] = "Professor Malkovich",
+    ["O"] = "Professor Malkovich",
+    ["D"] = "Professor Malkovich",
+  },
+  [50003] = {
+    ["T"] = "Professor Papucho",
+    ["O"] = "Professor Papucho",
+    ["D"] = "Professor Papucho",
+  },
+  [80210] = {
+    ["T"] = "Providing a Balanced Diet",
+    ["O"] = "Providing a Balanced Diet",
+    ["D"] = "Providing a Balanced Diet",
+  },
+  [80310] = {
+    ["T"] = "Quark's Justice",
+    ["O"] = "Quark's Justice",
+    ["D"] = "Quark's Justice",
+  },
+  [80305] = {
+    ["T"] = "Quark's Shack",
+    ["O"] = "Quark's Shack",
+    ["D"] = "Quark's Shack",
+  },
+  [50316] = {
+    ["T"] = "Race Against Time!",
+    ["O"] = "Race Against Time!",
+    ["D"] = "Race Against Time!",
+  },
+  [80303] = {
+    ["T"] = "Raiding Quel'Lithen Lodge",
+    ["O"] = "Raiding Quel'Lithen Lodge",
+    ["D"] = "Raiding Quel'Lithen Lodge",
+  },
+  [40194] = {
+    ["T"] = "Razzari Madness",
+    ["O"] = "Razzari Madness",
+    ["D"] = "Razzari Madness",
+  },
+  [80400] = {
+    ["T"] = "Re-assembler!",
+    ["O"] = "Re-assembler!",
+    ["D"] = "Re-assembler!",
+  },
+  [40057] = {
+    ["T"] = "Reclaiming the Tinkerspark Transponder",
+    ["O"] = "Reclaiming the Tinkerspark Transponder",
+    ["D"] = "Reclaiming the Tinkerspark Transponder",
+  },
+  [40172] = {
+    ["T"] = "Red Flag over the Sea",
+    ["O"] = "Red Flag over the Sea",
+    ["D"] = "Red Flag over the Sea",
+  },
+  [55032] = {
+    ["T"] = "Reduced to Madness",
+    ["O"] = "Reduced to Madness",
+    ["D"] = "Reduced to Madness",
+  },
+  [40288] = {
+    ["T"] = "Refueling the Blade",
+    ["O"] = "Refueling the Blade",
+    ["D"] = "Refueling the Blade",
+  },
+  [80253] = {
+    ["T"] = "Relics in Feralas",
+    ["O"] = "Relics in Feralas",
+    ["D"] = "Relics in Feralas",
+  },
+  [40066] = {
+    ["T"] = "Repair the Fizz Disk",
+    ["O"] = "Repair the Fizz Disk",
+    ["D"] = "Repair the Fizz Disk",
+  },
+  [55205] = {
+    ["T"] = "Report From Snowbeard",
+    ["O"] = "Report From Snowbeard",
+    ["D"] = "Report From Snowbeard",
+  },
+  [55204] = {
+    ["T"] = "Report From Stoutfist",
+    ["O"] = "Report From Stoutfist",
+    ["D"] = "Report From Stoutfist",
+  },
+  [40047] = {
+    ["T"] = "Report for Gnomeregan!",
+    ["O"] = "Report for Gnomeregan!",
+    ["D"] = "Report for Gnomeregan!",
+  },
+  [40048] = {
+    ["T"] = "Report from Gnomeregan!",
+    ["O"] = "Report from Gnomeregan!",
+    ["D"] = "Report from Gnomeregan!",
+  },
+  [70056] = {
+    ["T"] = "Report to Darkshire",
+    ["O"] = "Report to Darkshire",
+    ["D"] = "Report to Darkshire",
+  },
+  [55017] = {
+    ["T"] = "Report to Sparkwater!",
+    ["O"] = "Report to Sparkwater!",
+    ["D"] = "Report to Sparkwater!",
+  },
+  [40296] = {
+    ["T"] = "Report to the Archdruid",
+    ["O"] = "Report to the Archdruid",
+    ["D"] = "Report to the Archdruid",
+  },
+  [40131] = {
+    ["T"] = "Requisitioning a Core",
+    ["O"] = "Requisitioning a Core",
+    ["D"] = "Requisitioning a Core",
+  },
+  [40253] = {
+    ["T"] = "Restoring the Ley Lines",
+    ["O"] = "Restoring the Ley Lines",
+    ["D"] = "Restoring the Ley Lines",
+  },
+  [55201] = {
+    ["T"] = "Retaking The Roadways",
+    ["O"] = "Retaking The Roadways",
+    ["D"] = "Retaking The Roadways",
+  },
+  [80409] = {
+    ["T"] = "Return to Kheyna",
+    ["O"] = "Return to Kheyna",
+    ["D"] = "Return to Kheyna",
+  },
+  [55051] = {
+    ["T"] = "Return to Port!",
+    ["O"] = "Return to Port!",
+    ["D"] = "Return to Port!",
+  },
+  [55040] = {
+    ["T"] = "Returning Property",
+    ["O"] = "Returning Property",
+    ["D"] = "Returning Property",
+  },
+  [40232] = {
+    ["T"] = "Returning to Janathos",
+    ["O"] = "Returning to Janathos",
+    ["D"] = "Returning to Janathos",
+  },
+  [40293] = {
+    ["T"] = "Ritual of the Farseer",
+    ["O"] = "Ritual of the Farseer",
+    ["D"] = "Ritual of the Farseer",
+  },
+  [55220] = {
+    ["T"] = "Robb's Report",
+    ["O"] = "Robb's Report",
+    ["D"] = "Robb's Report",
+  },
+  [40203] = {
+    ["T"] = "Rooting Out Corruption",
+    ["O"] = "Rooting Out Corruption",
+    ["D"] = "Rooting Out Corruption",
+  },
+  [40147] = {
+    ["T"] = "Rooting Out Evil",
+    ["O"] = "Rooting Out Evil",
+    ["D"] = "Rooting Out Evil",
+  },
+  [40159] = {
+    ["T"] = "Rumors of the Great Fire Plume",
+    ["O"] = "Rumors of the Great Fire Plume",
+    ["D"] = "Rumors of the Great Fire Plume",
+  },
+  [40142] = {
+    ["T"] = "Sailors Innovation",
+    ["O"] = "Sailors Innovation",
+    ["D"] = "Sailors Innovation",
+  },
+  [40230] = {
+    ["T"] = "Saltspittle Raiders",
+    ["O"] = "Saltspittle Raiders",
+    ["D"] = "Saltspittle Raiders",
+  },
+  [40341] = {
+    ["T"] = "Sand in Bulk",
+    ["O"] = "Sand in Bulk",
+    ["D"] = "Sand in Bulk",
+  },
+  [80397] = {
+    ["T"] = "Sap Their Strength",
+    ["O"] = "Sap Their Strength",
+    ["D"] = "Sap Their Strength",
+  },
+  [55007] = {
+    ["T"] = "Searching for New Methods",
+    ["O"] = "Searching for New Methods",
+    ["D"] = "Searching for New Methods",
+  },
+  [80405] = {
+    ["T"] = "Secure the Cargo!",
+    ["O"] = "Secure the Cargo!",
+    ["D"] = "Secure the Cargo!",
+  },
+  [40205] = {
+    ["T"] = "Securing Darnassus",
+    ["O"] = "Securing Darnassus",
+    ["D"] = "Securing Darnassus",
+  },
+  [80211] = {
+    ["T"] = "Seeking Further Guidance",
+    ["O"] = "Seeking Further Guidance",
+    ["D"] = "Seeking Further Guidance",
+  },
+  [80212] = {
+    ["T"] = "Seeking Further Guidance",
+    ["O"] = "Seeking Further Guidance",
+    ["D"] = "Seeking Further Guidance",
+  },
+  [80213] = {
+    ["T"] = "Seeking Further Guidance",
+    ["O"] = "Seeking Further Guidance",
+    ["D"] = "Seeking Further Guidance",
+  },
+  [80214] = {
+    ["T"] = "Seeking Further Guidance",
+    ["O"] = "Seeking Further Guidance",
+    ["D"] = "Seeking Further Guidance",
+  },
+  [80215] = {
+    ["T"] = "Seeking Further Guidance",
+    ["O"] = "Seeking Further Guidance",
+    ["D"] = "Seeking Further Guidance",
+  },
+  [80216] = {
+    ["T"] = "Seeking Further Guidance",
+    ["O"] = "Seeking Further Guidance",
+    ["D"] = "Seeking Further Guidance",
+  },
+  [55039] = {
+    ["T"] = "Seeking Lost Answers",
+    ["O"] = "Seeking Lost Answers",
+    ["D"] = "Seeking Lost Answers",
+  },
+  [80383] = {
+    ["T"] = "Sharks Are Friends, Not Food",
+    ["O"] = "Sharks Are Friends, Not Food",
+    ["D"] = "Sharks Are Friends, Not Food",
+  },
+  [40242] = {
+    ["T"] = "Shell Shields",
+    ["O"] = "Shell Shields",
+    ["D"] = "Shell Shields",
+  },
+  [80381] = {
+    ["T"] = "Shellcoins",
+    ["O"] = "Shellcoins",
+    ["D"] = "Shellcoins",
+  },
+  [40299] = {
+    ["T"] = "Shoulderguards of the Lightbringer",
+    ["O"] = "Shoulderguards of the Lightbringer",
+    ["D"] = "Shoulderguards of the Lightbringer",
+  },
+  [80205] = {
+    ["T"] = "Slaking Their Thirst",
+    ["O"] = "Slaking Their Thirst",
+    ["D"] = "Slaking Their Thirst",
+  },
+  [55031] = {
+    ["T"] = "Smash Salt Tooth!",
+    ["O"] = "Smash Salt Tooth!",
+    ["D"] = "Smash Salt Tooth!",
+  },
+  [80254] = {
+    ["T"] = "Smashing Zul'Mashar",
+    ["O"] = "Smashing Zul'Mashar",
+    ["D"] = "Smashing Zul'Mashar",
+  },
+  [40143] = {
+    ["T"] = "Smashing the Southsea!",
+    ["O"] = "Smashing the Southsea!",
+    ["D"] = "Smashing the Southsea!",
+  },
+  [40198] = {
+    ["T"] = "Smuggling Ale",
+    ["O"] = "Smuggling Ale",
+    ["D"] = "Smuggling Ale",
+  },
+  [50319] = {
+    ["T"] = "Snowball Wars: Episode I",
+    ["O"] = "Snowball Wars: Episode I",
+    ["D"] = "Snowball Wars: Episode I",
+  },
+  [50320] = {
+    ["T"] = "Snowball Wars: Episode II",
+    ["O"] = "Snowball Wars: Episode II",
+    ["D"] = "Snowball Wars: Episode II",
+  },
+  [40077] = {
+    ["T"] = "Sorrowmoss Mushrooms!",
+    ["O"] = "Sorrowmoss Mushrooms!",
+    ["D"] = "Sorrowmoss Mushrooms!",
+  },
+  [80726] = {
+    ["T"] = "Soul and Alchemy",
+    ["O"] = "Soul and Alchemy",
+    ["D"] = "Soul and Alchemy",
+  },
+  [40182] = {
+    ["T"] = "South Sea Losers",
+    ["O"] = "South Sea Losers",
+    ["D"] = "South Sea Losers",
+  },
+  [60155] = {
+    ["T"] = "South Seas Delicacy",
+    ["O"] = "South Seas Delicacy",
+    ["D"] = "South Seas Delicacy",
+  },
+  [40144] = {
+    ["T"] = "Southsea Interference",
+    ["O"] = "Southsea Interference",
+    ["D"] = "Southsea Interference",
+  },
+  [40148] = {
+    ["T"] = "Southsea Reserve",
+    ["O"] = "Southsea Reserve",
+    ["D"] = "Southsea Reserve",
+  },
+  [40035] = {
+    ["T"] = "Spoils Left Behind",
+    ["O"] = "Spoils Left Behind",
+    ["D"] = "Spoils Left Behind",
+  },
+  [40247] = {
+    ["T"] = "Staff of Eldara",
+    ["O"] = "Staff of Eldara",
+    ["D"] = "Staff of Eldara",
+  },
+  [40085] = {
+    ["T"] = "Stealing Arcane Goods",
+    ["O"] = "Stealing Arcane Goods",
+    ["D"] = "Stealing Arcane Goods",
+  },
+  [40129] = {
+    ["T"] = "Stealing a Core",
+    ["O"] = "Stealing a Core",
+    ["D"] = "Stealing a Core",
+  },
+  [80201] = {
+    ["T"] = "Stocking Up on Wood",
+    ["O"] = "Stocking Up on Wood",
+    ["D"] = "Stocking Up on Wood",
+  },
+  [40297] = {
+    ["T"] = "Stop the Dragonflight",
+    ["O"] = "Stop the Dragonflight",
+    ["D"] = "Stop the Dragonflight",
+  },
+  [80208] = {
+    ["T"] = "Sunblade Reunion",
+    ["O"] = "Sunblade Reunion",
+    ["D"] = "Sunblade Reunion",
+  },
+  [55213] = {
+    ["T"] = "Supplies for Barthos",
+    ["O"] = "Supplies for Barthos",
+    ["D"] = "Supplies for Barthos",
+  },
+  [40075] = {
+    ["T"] = "Swords to Sorrowguard",
+    ["O"] = "Swords to Sorrowguard",
+    ["D"] = "Swords to Sorrowguard",
+  },
+  [40181] = {
+    ["T"] = "Taking over Faldir's Cove",
+    ["O"] = "Taking over Faldir's Cove",
+    ["D"] = "Taking over Faldir's Cove",
+  },
+  [40095] = {
+    ["T"] = "Tales of the Past",
+    ["O"] = "Tales of the Past",
+    ["D"] = "Tales of the Past",
+  },
+  [80331] = {
+    ["T"] = "Taming the Beast",
+    ["O"] = "Taming the Beast",
+    ["D"] = "Taming the Beast",
+  },
+  [80332] = {
+    ["T"] = "Taming the Beast",
+    ["O"] = "Taming the Beast",
+    ["D"] = "Taming the Beast",
+  },
+  [80333] = {
+    ["T"] = "Taming the Beast",
+    ["O"] = "Taming the Beast",
+    ["D"] = "Taming the Beast",
+  },
+  [80340] = {
+    ["T"] = "Taming the Beast",
+    ["O"] = "Taming the Beast",
+    ["D"] = "Taming the Beast",
+  },
+  [80341] = {
+    ["T"] = "Taming the Beast",
+    ["O"] = "Taming the Beast",
+    ["D"] = "Taming the Beast",
+  },
+  [80342] = {
+    ["T"] = "Taming the Beast",
+    ["O"] = "Taming the Beast",
+    ["D"] = "Taming the Beast",
+  },
+  [40200] = {
+    ["T"] = "Tanglemoss",
+    ["O"] = "Tanglemoss",
+    ["D"] = "Tanglemoss",
+  },
+  [40202] = {
+    ["T"] = "Tasala's Word",
+    ["O"] = "Tasala's Word",
+    ["D"] = "Tasala's Word",
+  },
+  [80258] = {
+    ["T"] = "Tears of the Poppy",
+    ["O"] = "Tears of the Poppy",
+    ["D"] = "Tears of the Poppy",
+  },
+  [80261] = {
+    ["T"] = "Teslinah's Search I",
+    ["O"] = "Teslinah's Search I",
+    ["D"] = "Teslinah's Search I",
+  },
+  [80262] = {
+    ["T"] = "Teslinah's Search II",
+    ["O"] = "Teslinah's Search II",
+    ["D"] = "Teslinah's Search II",
+  },
+  [80263] = {
+    ["T"] = "Teslinah's Search III",
+    ["O"] = "Teslinah's Search III",
+    ["D"] = "Teslinah's Search III",
+  },
+  [80264] = {
+    ["T"] = "Teslinah's Search IV",
+    ["O"] = "Teslinah's Search IV",
+    ["D"] = "Teslinah's Search IV",
+  },
+  [80265] = {
+    ["T"] = "Teslinah's Search V",
+    ["O"] = "Teslinah's Search V",
+    ["D"] = "Teslinah's Search V",
+  },
+  [40058] = {
+    ["T"] = "Thalassian Ascension",
+    ["O"] = "Thalassian Ascension",
+    ["D"] = "Thalassian Ascension",
+  },
+  [40132] = {
+    ["T"] = "The Activation",
+    ["O"] = "The Activation",
+    ["D"] = "The Activation",
+  },
+  [40044] = {
+    ["T"] = "The Analyzation Chip",
+    ["O"] = "The Analyzation Chip",
+    ["D"] = "The Analyzation Chip",
+  },
+  [40151] = {
+    ["T"] = "The Aqua Stone",
+    ["O"] = "The Aqua Stone",
+    ["D"] = "The Aqua Stone",
+  },
+  [40122] = {
+    ["T"] = "The Azshara Dampening",
+    ["O"] = "The Azshara Dampening",
+    ["D"] = "The Azshara Dampening",
+  },
+  [40338] = {
+    ["T"] = "The Azurestone",
+    ["O"] = "The Azurestone",
+    ["D"] = "The Azurestone",
+  },
+  [40339] = {
+    ["T"] = "The Azurestone Order",
+    ["O"] = "The Azurestone Order",
+    ["D"] = "The Azurestone Order",
+  },
+  [40175] = {
+    ["T"] = "The Bet",
+    ["O"] = "The Bet",
+    ["D"] = "The Bet",
+  },
+  [55018] = {
+    ["T"] = "The Big Energy Project",
+    ["O"] = "The Big Energy Project",
+    ["D"] = "The Big Energy Project",
+  },
+  [40190] = {
+    ["T"] = "The Blazno Touch",
+    ["O"] = "The Blazno Touch",
+    ["D"] = "The Blazno Touch",
+  },
+  [40330] = {
+    ["T"] = "The Bloodsail Compound I",
+    ["O"] = "The Bloodsail Compound I",
+    ["D"] = "The Bloodsail Compound I",
+  },
+  [40331] = {
+    ["T"] = "The Bloodsail Compound II",
+    ["O"] = "The Bloodsail Compound II",
+    ["D"] = "The Bloodsail Compound II",
+  },
+  [40332] = {
+    ["T"] = "The Bloodsail Compound III",
+    ["O"] = "The Bloodsail Compound III",
+    ["D"] = "The Bloodsail Compound III",
+  },
+  [40333] = {
+    ["T"] = "The Bloodsail Compound IV",
+    ["O"] = "The Bloodsail Compound IV",
+    ["D"] = "The Bloodsail Compound IV",
+  },
+  [40334] = {
+    ["T"] = "The Bloodsail Compound V",
+    ["O"] = "The Bloodsail Compound V",
+    ["D"] = "The Bloodsail Compound V",
+  },
+  [40141] = {
+    ["T"] = "The Boran Family",
+    ["O"] = "The Boran Family",
+    ["D"] = "The Boran Family",
+  },
+  [40342] = {
+    ["T"] = "The Bronze Betrayal",
+    ["O"] = "The Bronze Betrayal",
+    ["D"] = "The Bronze Betrayal",
+  },
+  [40020] = {
+    ["T"] = "The Chief's Necklace",
+    ["O"] = "The Chief's Necklace",
+    ["D"] = "The Chief's Necklace",
+  },
+  [40091] = {
+    ["T"] = "The Crescent Grove",
+    ["O"] = "The Crescent Grove",
+    ["D"] = "The Crescent Grove",
+  },
+  [40127] = {
+    ["T"] = "The Dampening Must End",
+    ["O"] = "The Dampening Must End",
+    ["D"] = "The Dampening Must End",
+  },
+  [40123] = {
+    ["T"] = "The Dampening Mystery",
+    ["O"] = "The Dampening Mystery",
+    ["D"] = "The Dampening Mystery",
+  },
+  [40304] = {
+    ["T"] = "The Depths of Karazhan I",
+    ["O"] = "The Depths of Karazhan I",
+    ["D"] = "The Depths of Karazhan I",
+  },
+  [40305] = {
+    ["T"] = "The Depths of Karazhan II",
+    ["O"] = "The Depths of Karazhan II",
+    ["D"] = "The Depths of Karazhan II",
+  },
+  [40306] = {
+    ["T"] = "The Depths of Karazhan III",
+    ["O"] = "The Depths of Karazhan III",
+    ["D"] = "The Depths of Karazhan III",
+  },
+  [40307] = {
+    ["T"] = "The Depths of Karazhan IV",
+    ["O"] = "The Depths of Karazhan IV",
+    ["D"] = "The Depths of Karazhan IV",
+  },
+  [40308] = {
+    ["T"] = "The Depths of Karazhan V",
+    ["O"] = "The Depths of Karazhan V",
+    ["D"] = "The Depths of Karazhan V",
+  },
+  [40309] = {
+    ["T"] = "The Depths of Karazhan VI",
+    ["O"] = "The Depths of Karazhan VI",
+    ["D"] = "The Depths of Karazhan VI",
+  },
+  [40310] = {
+    ["T"] = "The Depths of Karazhan VII",
+    ["O"] = "The Depths of Karazhan VII",
+    ["D"] = "The Depths of Karazhan VII",
+  },
+  [40245] = {
+    ["T"] = "The Eldarath Harmonization Gem",
+    ["O"] = "The Eldarath Harmonization Gem",
+    ["D"] = "The Eldarath Harmonization Gem",
+  },
+  [55015] = {
+    ["T"] = "The Eldarath Project",
+    ["O"] = "The Eldarath Project",
+    ["D"] = "The Eldarath Project",
+  },
+  [55014] = {
+    ["T"] = "The Ethereal Project",
+    ["O"] = "The Ethereal Project",
+    ["D"] = "The Ethereal Project",
+  },
+  [40162] = {
+    ["T"] = "The Evil Deeptide",
+    ["O"] = "The Evil Deeptide",
+    ["D"] = "The Evil Deeptide",
+  },
+  [80605] = {
+    ["T"] = "The First Opening of The Dark Portal",
+    ["O"] = "The First Opening of The Dark Portal",
+    ["D"] = "The First Opening of The Dark Portal",
+  },
+  [80289] = {
+    ["T"] = "The First Settlement",
+    ["O"] = "The First Settlement",
+    ["D"] = "The First Settlement",
+  },
+  [40040] = {
+    ["T"] = "The Flaxwhisker Front",
+    ["O"] = "The Flaxwhisker Front",
+    ["D"] = "The Flaxwhisker Front",
+  },
+  [40046] = {
+    ["T"] = "The Flight Logbook",
+    ["O"] = "The Flight Logbook",
+    ["D"] = "The Flight Logbook",
+  },
+  [40231] = {
+    ["T"] = "The Forgotten Tome",
+    ["O"] = "The Forgotten Tome",
+    ["D"] = "The Forgotten Tome",
+  },
+  [80728] = {
+    ["T"] = "The Future Looks Grim",
+    ["O"] = "The Future Looks Grim",
+    ["D"] = "The Future Looks Grim",
+  },
+  [40191] = {
+    ["T"] = "The Ghostly Charm",
+    ["O"] = "The Ghostly Charm",
+    ["D"] = "The Ghostly Charm",
+  },
+  [40218] = {
+    ["T"] = "The Glass Eye",
+    ["O"] = "The Glass Eye",
+    ["D"] = "The Glass Eye",
+  },
+  [40177] = {
+    ["T"] = "The Gobcrank Flazwanger",
+    ["O"] = "The Gobcrank Flazwanger",
+    ["D"] = "The Gobcrank Flazwanger",
+  },
+  [40155] = {
+    ["T"] = "The Gor'dosh Ogres",
+    ["O"] = "The Gor'dosh Ogres",
+    ["D"] = "The Gor'dosh Ogres",
+  },
+  [40064] = {
+    ["T"] = "The Gyronautical Compass",
+    ["O"] = "The Gyronautical Compass",
+    ["D"] = "The Gyronautical Compass",
+  },
+  [55225] = {
+    ["T"] = "The Hawk's Vigil",
+    ["O"] = "The Hawk's Vigil",
+    ["D"] = "The Hawk's Vigil",
+  },
+  [40210] = {
+    ["T"] = "The Hermit",
+    ["O"] = "The Hermit",
+    ["D"] = "The Hermit",
+  },
+  [40213] = {
+    ["T"] = "The Hermit's Wrath",
+    ["O"] = "The Hermit's Wrath",
+    ["D"] = "The Hermit's Wrath",
+  },
+  [40028] = {
+    ["T"] = "The Horn of Garek'sa",
+    ["O"] = "The Horn of Garek'sa",
+    ["D"] = "The Horn of Garek'sa",
+  },
+  [50002] = {
+    ["T"] = "The Human Anatomy",
+    ["O"] = "The Human Anatomy",
+    ["D"] = "The Human Anatomy",
+  },
+  [40015] = {
+    ["T"] = "The Hunt for Heketh",
+    ["O"] = "The Hunt for Heketh",
+    ["D"] = "The Hunt for Heketh",
+  },
+  [40209] = {
+    ["T"] = "The Hunt for Sorrowclaw",
+    ["O"] = "The Hunt for Sorrowclaw",
+    ["D"] = "The Hunt for Sorrowclaw",
+  },
+  [80330] = {
+    ["T"] = "The Hunter's Path",
+    ["O"] = "The Hunter's Path",
+    ["D"] = "The Hunter's Path",
+  },
+  [80339] = {
+    ["T"] = "The Hunter's Path",
+    ["O"] = "The Hunter's Path",
+    ["D"] = "The Hunter's Path",
+  },
+  [80366] = {
+    ["T"] = "The Hunter's Path",
+    ["O"] = "The Hunter's Path",
+    ["D"] = "The Hunter's Path",
+  },
+  [50321] = {
+    ["T"] = "The Icy Menace",
+    ["O"] = "The Icy Menace",
+    ["D"] = "The Icy Menace",
+  },
+  [60153] = {
+    ["T"] = "The Iron Patch",
+    ["O"] = "The Iron Patch",
+    ["D"] = "The Iron Patch",
+  },
+  [40219] = {
+    ["T"] = "The Jade Mine",
+    ["O"] = "The Jade Mine",
+    ["D"] = "The Jade Mine",
+  },
+  [40049] = {
+    ["T"] = "The Kaldorei Problem",
+    ["O"] = "The Kaldorei Problem",
+    ["D"] = "The Kaldorei Problem",
+  },
+  [40322] = {
+    ["T"] = "The Kaneq'nuun Elder",
+    ["O"] = "The Kaneq'nuun Elder",
+    ["D"] = "The Kaneq'nuun Elder",
+  },
+  [40243] = {
+    ["T"] = "The Keepers Charge",
+    ["O"] = "The Keepers Charge",
+    ["D"] = "The Keepers Charge",
+  },
+  [40244] = {
+    ["T"] = "The Keepers Possession",
+    ["O"] = "The Keepers Possession",
+    ["D"] = "The Keepers Possession",
+  },
+  [40324] = {
+    ["T"] = "The Legend of Tarqsiku",
+    ["O"] = "The Legend of Tarqsiku",
+    ["D"] = "The Legend of Tarqsiku",
+  },
+  [80322] = {
+    ["T"] = "The Lies That Bind Us",
+    ["O"] = "The Lies That Bind Us",
+    ["D"] = "The Lies That Bind Us",
+  },
+  [80323] = {
+    ["T"] = "The Lies That Bind Us",
+    ["O"] = "The Lies That Bind Us",
+    ["D"] = "The Lies That Bind Us",
+  },
+  [80321] = {
+    ["T"] = "The Lies that Bind Us",
+    ["O"] = "The Lies that Bind Us",
+    ["D"] = "The Lies that Bind Us",
+  },
+  [60135] = {
+    ["T"] = "The Lingering Mother",
+    ["O"] = "The Lingering Mother",
+    ["D"] = "The Lingering Mother",
+  },
+  [70053] = {
+    ["T"] = "The Loch Menace",
+    ["O"] = "The Loch Menace",
+    ["D"] = "The Loch Menace",
+  },
+  [40221] = {
+    ["T"] = "The Long Night Is Not Over",
+    ["O"] = "The Long Night Is Not Over",
+    ["D"] = "The Long Night Is Not Over",
+  },
+  [55202] = {
+    ["T"] = "The Lost Bet",
+    ["O"] = "The Lost Bet",
+    ["D"] = "The Lost Bet",
+  },
+  [40188] = {
+    ["T"] = "The Lost Crew",
+    ["O"] = "The Lost Crew",
+    ["D"] = "The Lost Crew",
+  },
+  [80290] = {
+    ["T"] = "The Lost Tablets",
+    ["O"] = "The Lost Tablets",
+    ["D"] = "The Lost Tablets",
+  },
+  [40208] = {
+    ["T"] = "The Magic of Dragons",
+    ["O"] = "The Magic of Dragons",
+    ["D"] = "The Magic of Dragons",
+  },
+  [40059] = {
+    ["T"] = "The Magical Ailment",
+    ["O"] = "The Magical Ailment",
+    ["D"] = "The Magical Ailment",
+  },
+  [40241] = {
+    ["T"] = "The Materials of Runeforging",
+    ["O"] = "The Materials of Runeforging",
+    ["D"] = "The Materials of Runeforging",
+  },
+  [40258] = {
+    ["T"] = "The Maul Orb",
+    ["O"] = "The Maul Orb",
+    ["D"] = "The Maul Orb",
+  },
+  [40264] = {
+    ["T"] = "The Maul'ogg Crisis I",
+    ["O"] = "The Maul'ogg Crisis I",
+    ["D"] = "The Maul'ogg Crisis I",
+  },
+  [40265] = {
+    ["T"] = "The Maul'ogg Crisis II",
+    ["O"] = "The Maul'ogg Crisis II",
+    ["D"] = "The Maul'ogg Crisis II",
+  },
+  [40266] = {
+    ["T"] = "The Maul'ogg Crisis III",
+    ["O"] = "The Maul'ogg Crisis III",
+    ["D"] = "The Maul'ogg Crisis III",
+  },
+  [40267] = {
+    ["T"] = "The Maul'ogg Crisis IV",
+    ["O"] = "The Maul'ogg Crisis IV",
+    ["D"] = "The Maul'ogg Crisis IV",
+  },
+  [40272] = {
+    ["T"] = "The Maul'ogg Crisis IX",
+    ["O"] = "The Maul'ogg Crisis IX",
+    ["D"] = "The Maul'ogg Crisis IX",
+  },
+  [40268] = {
+    ["T"] = "The Maul'ogg Crisis V",
+    ["O"] = "The Maul'ogg Crisis V",
+    ["D"] = "The Maul'ogg Crisis V",
+  },
+  [40269] = {
+    ["T"] = "The Maul'ogg Crisis VI",
+    ["O"] = "The Maul'ogg Crisis VI",
+    ["D"] = "The Maul'ogg Crisis VI",
+  },
+  [40270] = {
+    ["T"] = "The Maul'ogg Crisis VII",
+    ["O"] = "The Maul'ogg Crisis VII",
+    ["D"] = "The Maul'ogg Crisis VII",
+  },
+  [40271] = {
+    ["T"] = "The Maul'ogg Crisis VIII",
+    ["O"] = "The Maul'ogg Crisis VIII",
+    ["D"] = "The Maul'ogg Crisis VIII",
+  },
+  [40199] = {
+    ["T"] = "The Maul'ogg War",
+    ["O"] = "The Maul'ogg War",
+    ["D"] = "The Maul'ogg War",
+  },
+  [80304] = {
+    ["T"] = "The Means To Heal",
+    ["O"] = "The Means To Heal",
+    ["D"] = "The Means To Heal",
+  },
+  [40104] = {
+    ["T"] = "The Missing Expedition",
+    ["O"] = "The Missing Expedition",
+    ["D"] = "The Missing Expedition",
+  },
+  [40043] = {
+    ["T"] = "The Missing Robot",
+    ["O"] = "The Missing Robot",
+    ["D"] = "The Missing Robot",
+  },
+  [60109] = {
+    ["T"] = "The Missing Sorcerer",
+    ["O"] = "The Missing Sorcerer",
+    ["D"] = "The Missing Sorcerer",
+  },
+  [40078] = {
+    ["T"] = "The Murloc Menace",
+    ["O"] = "The Murloc Menace",
+    ["D"] = "The Murloc Menace",
+  },
+  [55216] = {
+    ["T"] = "The Mystery Continues",
+    ["O"] = "The Mystery Continues",
+    ["D"] = "The Mystery Continues",
+  },
+  [40311] = {
+    ["T"] = "The Mystery of Karazhan I",
+    ["O"] = "The Mystery of Karazhan I",
+    ["D"] = "The Mystery of Karazhan I",
+  },
+  [40312] = {
+    ["T"] = "The Mystery of Karazhan II",
+    ["O"] = "The Mystery of Karazhan II",
+    ["D"] = "The Mystery of Karazhan II",
+  },
+  [40313] = {
+    ["T"] = "The Mystery of Karazhan III",
+    ["O"] = "The Mystery of Karazhan III",
+    ["D"] = "The Mystery of Karazhan III",
+  },
+  [40314] = {
+    ["T"] = "The Mystery of Karazhan IV",
+    ["O"] = "The Mystery of Karazhan IV",
+    ["D"] = "The Mystery of Karazhan IV",
+  },
+  [40315] = {
+    ["T"] = "The Mystery of Karazhan V",
+    ["O"] = "The Mystery of Karazhan V",
+    ["D"] = "The Mystery of Karazhan V",
+  },
+  [40316] = {
+    ["T"] = "The Mystery of Karazhan VI",
+    ["O"] = "The Mystery of Karazhan VI",
+    ["D"] = "The Mystery of Karazhan VI",
+  },
+  [40317] = {
+    ["T"] = "The Mystery of Karazhan VII",
+    ["O"] = "The Mystery of Karazhan VII",
+    ["D"] = "The Mystery of Karazhan VII",
+  },
+  [40321] = {
+    ["T"] = "The Northeast Passage",
+    ["O"] = "The Northeast Passage",
+    ["D"] = "The Northeast Passage",
+  },
+  [40225] = {
+    ["T"] = "The Old Bonds",
+    ["O"] = "The Old Bonds",
+    ["D"] = "The Old Bonds",
+  },
+  [40233] = {
+    ["T"] = "The Orb of Kaladus",
+    ["O"] = "The Orb of Kaladus",
+    ["D"] = "The Orb of Kaladus",
+  },
+  [50004] = {
+    ["T"] = "The Orcish Anatomy",
+    ["O"] = "The Orcish Anatomy",
+    ["D"] = "The Orcish Anatomy",
+  },
+  [55208] = {
+    ["T"] = "The Pie Delivery",
+    ["O"] = "The Pie Delivery",
+    ["D"] = "The Pie Delivery",
+  },
+  [40133] = {
+    ["T"] = "The Profitable Activation",
+    ["O"] = "The Profitable Activation",
+    ["D"] = "The Profitable Activation",
+  },
+  [55207] = {
+    ["T"] = "The Quest For Pie",
+    ["O"] = "The Quest For Pie",
+    ["D"] = "The Quest For Pie",
+  },
+  [40103] = {
+    ["T"] = "The Race",
+    ["O"] = "The Race",
+    ["D"] = "The Race",
+  },
+  [40089] = {
+    ["T"] = "The Rampant Groveweald",
+    ["O"] = "The Rampant Groveweald",
+    ["D"] = "The Rampant Groveweald",
+  },
+  [40195] = {
+    ["T"] = "The Razzari Leaders",
+    ["O"] = "The Razzari Leaders",
+    ["D"] = "The Razzari Leaders",
+  },
+  [40039] = {
+    ["T"] = "The Rethress Tide Scepter",
+    ["O"] = "The Rethress Tide Scepter",
+    ["D"] = "The Rethress Tide Scepter",
+  },
+  [40083] = {
+    ["T"] = "The Rogue Heights",
+    ["O"] = "The Rogue Heights",
+    ["D"] = "The Rogue Heights",
+  },
+  [40027] = {
+    ["T"] = "The Sanv Charm",
+    ["O"] = "The Sanv Charm",
+    ["D"] = "The Sanv Charm",
+  },
+  [55209] = {
+    ["T"] = "The Schematic Run!",
+    ["O"] = "The Schematic Run!",
+    ["D"] = "The Schematic Run!",
+  },
+  [40286] = {
+    ["T"] = "The Search for the Blade",
+    ["O"] = "The Search for the Blade",
+    ["D"] = "The Search for the Blade",
+  },
+  [40287] = {
+    ["T"] = "The Search for the Edge",
+    ["O"] = "The Search for the Edge",
+    ["D"] = "The Search for the Edge",
+  },
+  [40235] = {
+    ["T"] = "The Secrets of Darkforging",
+    ["O"] = "The Secrets of Darkforging",
+    ["D"] = "The Secrets of Darkforging",
+  },
+  [40236] = {
+    ["T"] = "The Secrets of Darkforging",
+    ["O"] = "The Secrets of Darkforging",
+    ["D"] = "The Secrets of Darkforging",
+  },
+  [80291] = {
+    ["T"] = "The Shadow Well",
+    ["O"] = "The Shadow Well",
+    ["D"] = "The Shadow Well",
+  },
+  [55016] = {
+    ["T"] = "The Skystormer Project",
+    ["O"] = "The Skystormer Project",
+    ["D"] = "The Skystormer Project",
+  },
+  [40021] = {
+    ["T"] = "The Speaker's Betrayal",
+    ["O"] = "The Speaker's Betrayal",
+    ["D"] = "The Speaker's Betrayal",
+  },
+  [55221] = {
+    ["T"] = "The Stockade's Search",
+    ["O"] = "The Stockade's Search",
+    ["D"] = "The Stockade's Search",
+  },
+  [40037] = {
+    ["T"] = "The Storm Bay Mutiny",
+    ["O"] = "The Storm Bay Mutiny",
+    ["D"] = "The Storm Bay Mutiny",
+  },
+  [60114] = {
+    ["T"] = "The Terror of Chill Breeze",
+    ["O"] = "The Terror of Chill Breeze",
+    ["D"] = "The Terror of Chill Breeze",
+  },
+  [60065] = {
+    ["T"] = "The Terrors of the Webweavers",
+    ["O"] = "The Terrors of the Webweavers",
+    ["D"] = "The Terrors of the Webweavers",
+  },
+  [40093] = {
+    ["T"] = "The Tidemaster",
+    ["O"] = "The Tidemaster",
+    ["D"] = "The Tidemaster",
+  },
+  [40163] = {
+    ["T"] = "The Tower of Lapidis",
+    ["O"] = "The Tower of Lapidis",
+    ["D"] = "The Tower of Lapidis",
+  },
+  [40164] = {
+    ["T"] = "The Tower of Lapidis II",
+    ["O"] = "The Tower of Lapidis II",
+    ["D"] = "The Tower of Lapidis II",
+  },
+  [40165] = {
+    ["T"] = "The Tower of Lapidis III",
+    ["O"] = "The Tower of Lapidis III",
+    ["D"] = "The Tower of Lapidis III",
+  },
+  [40166] = {
+    ["T"] = "The Tower of Lapidis IV",
+    ["O"] = "The Tower of Lapidis IV",
+    ["D"] = "The Tower of Lapidis IV",
+  },
+  [40171] = {
+    ["T"] = "The Tower of Lapidis IX",
+    ["O"] = "The Tower of Lapidis IX",
+    ["D"] = "The Tower of Lapidis IX",
+  },
+  [40167] = {
+    ["T"] = "The Tower of Lapidis V",
+    ["O"] = "The Tower of Lapidis V",
+    ["D"] = "The Tower of Lapidis V",
+  },
+  [40168] = {
+    ["T"] = "The Tower of Lapidis VI",
+    ["O"] = "The Tower of Lapidis VI",
+    ["D"] = "The Tower of Lapidis VI",
+  },
+  [40169] = {
+    ["T"] = "The Tower of Lapidis VII",
+    ["O"] = "The Tower of Lapidis VII",
+    ["D"] = "The Tower of Lapidis VII",
+  },
+  [40170] = {
+    ["T"] = "The Tower of Lapidis VIII",
+    ["O"] = "The Tower of Lapidis VIII",
+    ["D"] = "The Tower of Lapidis VIII",
+  },
+  [40303] = {
+    ["T"] = "The Tower of Lapidis X",
+    ["O"] = "The Tower of Lapidis X",
+    ["D"] = "The Tower of Lapidis X",
+  },
+  [40065] = {
+    ["T"] = "The Turbocharged Wobble-free Fizz Disk",
+    ["O"] = "The Turbocharged Wobble-free Fizz Disk",
+    ["D"] = "The Turbocharged Wobble-free Fizz Disk",
+  },
+  [40156] = {
+    ["T"] = "The Tyrant King",
+    ["O"] = "The Tyrant King",
+    ["D"] = "The Tyrant King",
+  },
+  [40090] = {
+    ["T"] = "The Unwise Elders",
+    ["O"] = "The Unwise Elders",
+    ["D"] = "The Unwise Elders",
+  },
+  [40094] = {
+    ["T"] = "The Water Rat",
+    ["O"] = "The Water Rat",
+    ["D"] = "The Water Rat",
+  },
+  [40252] = {
+    ["T"] = "The Way-Stones of Old",
+    ["O"] = "The Way-Stones of Old",
+    ["D"] = "The Way-Stones of Old",
+  },
+  [40012] = {
+    ["T"] = "The White Stag and the Moon",
+    ["O"] = "The White Stag and the Moon",
+    ["D"] = "The White Stag and the Moon",
+  },
+  [40013] = {
+    ["T"] = "The White Stag and the Moon",
+    ["O"] = "The White Stag and the Moon",
+    ["D"] = "The White Stag and the Moon",
+  },
+  [40019] = {
+    ["T"] = "The Wildtusk Charms",
+    ["O"] = "The Wildtusk Charms",
+    ["D"] = "The Wildtusk Charms",
+  },
+  [40239] = {
+    ["T"] = "The Will of Lorthiras",
+    ["O"] = "The Will of Lorthiras",
+    ["D"] = "The Will of Lorthiras",
+  },
+  [40022] = {
+    ["T"] = "The Witherbark Warleader",
+    ["O"] = "The Witherbark Warleader",
+    ["D"] = "The Witherbark Warleader",
+  },
+  [55203] = {
+    ["T"] = "The Wood Arrives on Time!",
+    ["O"] = "The Wood Arrives on Time!",
+    ["D"] = "The Wood Arrives on Time!",
+  },
+  [80403] = {
+    ["T"] = "The Zeppelin Crash",
+    ["O"] = "The Zeppelin Crash",
+    ["D"] = "The Zeppelin Crash",
+  },
+  [60152] = {
+    ["T"] = "They Call Him Morgan the Storm",
+    ["O"] = "They Call Him Morgan the Storm",
+    ["D"] = "They Call Him Morgan the Storm",
+  },
+  [60132] = {
+    ["T"] = "They're In The Way!",
+    ["O"] = "They're In The Way!",
+    ["D"] = "They're In The Way!",
+  },
+  [40158] = {
+    ["T"] = "Thunderhead Horn",
+    ["O"] = "Thunderhead Horn",
+    ["D"] = "Thunderhead Horn",
+  },
+  [55210] = {
+    ["T"] = "Tilting Oscilation Inhibitor?!",
+    ["O"] = "Tilting Oscilation Inhibitor?!",
+    ["D"] = "Tilting Oscilation Inhibitor?!",
+  },
+  [80360] = {
+    ["T"] = "Times Be Changing",
+    ["O"] = "Times Be Changing",
+    ["D"] = "Times Be Changing",
+  },
+  [55212] = {
+    ["T"] = "Tinkering Away",
+    ["O"] = "Tinkering Away",
+    ["D"] = "Tinkering Away",
+  },
+  [40014] = {
+    ["T"] = "Titiki's Hunt",
+    ["O"] = "Titiki's Hunt",
+    ["D"] = "Titiki's Hunt",
+  },
+  [80251] = {
+    ["T"] = "To Alah'Thalas!",
+    ["O"] = "To Alah'Thalas!",
+    ["D"] = "To Alah'Thalas!",
+  },
+  [80401] = {
+    ["T"] = "To Build a Pounder",
+    ["O"] = "To Build a Pounder",
+    ["D"] = "To Build a Pounder",
+  },
+  [80722] = {
+    ["T"] = "To Catch a Rat...",
+    ["O"] = "To Catch a Rat...",
+    ["D"] = "To Catch a Rat...",
+  },
+  [40289] = {
+    ["T"] = "To Honor the Forgotten",
+    ["O"] = "To Honor the Forgotten",
+    ["D"] = "To Honor the Forgotten",
+  },
+  [40189] = {
+    ["T"] = "To Make A Fortune",
+    ["O"] = "To Make A Fortune",
+    ["D"] = "To Make A Fortune",
+  },
+  [40255] = {
+    ["T"] = "To Sorrowguard Keep",
+    ["O"] = "To Sorrowguard Keep",
+    ["D"] = "To Sorrowguard Keep",
+  },
+  [80308] = {
+    ["T"] = "Tobacco Thieves",
+    ["O"] = "Tobacco Thieves",
+    ["D"] = "Tobacco Thieves",
+  },
+  [40302] = {
+    ["T"] = "Torta's Egg",
+    ["O"] = "Torta's Egg",
+    ["D"] = "Torta's Egg",
+  },
+  [80334] = {
+    ["T"] = "Training the Beast",
+    ["O"] = "Training the Beast",
+    ["D"] = "Training the Beast",
+  },
+  [80343] = {
+    ["T"] = "Training the Beast",
+    ["O"] = "Training the Beast",
+    ["D"] = "Training the Beast",
+  },
+  [60120] = {
+    ["T"] = "Triggered!",
+    ["O"] = "Triggered!",
+    ["D"] = "Triggered!",
+  },
+  [60072] = {
+    ["T"] = "Trimming the Vilebranch",
+    ["O"] = "Trimming the Vilebranch",
+    ["D"] = "Trimming the Vilebranch",
+  },
+  [80723] = {
+    ["T"] = "Trusted Apothecary",
+    ["O"] = "Trusted Apothecary",
+    ["D"] = "Trusted Apothecary",
+  },
+  [80353] = {
+    ["T"] = "Unclear Instructions",
+    ["O"] = "Unclear Instructions",
+    ["D"] = "Unclear Instructions",
+  },
+  [55223] = {
+    ["T"] = "Uncovering Evidence",
+    ["O"] = "Uncovering Evidence",
+    ["D"] = "Uncovering Evidence",
+  },
+  [40214] = {
+    ["T"] = "Uncovering Evil",
+    ["O"] = "Uncovering Evil",
+    ["D"] = "Uncovering Evil",
+  },
+  [55215] = {
+    ["T"] = "Uncovering Mystery",
+    ["O"] = "Uncovering Mystery",
+    ["D"] = "Uncovering Mystery",
+  },
+  [40201] = {
+    ["T"] = "Unforseen Consequences",
+    ["O"] = "Unforseen Consequences",
+    ["D"] = "Unforseen Consequences",
+  },
+  [40100] = {
+    ["T"] = "Unusual Partnership",
+    ["O"] = "Unusual Partnership",
+    ["D"] = "Unusual Partnership",
+  },
+  [80382] = {
+    ["T"] = "VIP Invites",
+    ["O"] = "VIP Invites",
+    ["D"] = "VIP Invites",
+  },
+  [50331] = {
+    ["T"] = "WANTED: Aristoxenus!",
+    ["O"] = "WANTED: Aristoxenus!",
+    ["D"] = "WANTED: Aristoxenus!",
+  },
+  [50332] = {
+    ["T"] = "WANTED: Azteq!",
+    ["O"] = "WANTED: Azteq!",
+    ["D"] = "WANTED: Azteq!",
+  },
+  [50323] = {
+    ["T"] = "WANTED: Er!",
+    ["O"] = "WANTED: Er!",
+    ["D"] = "WANTED: Er!",
+  },
+  [55048] = {
+    ["T"] = "WANTED: Hole Escapee",
+    ["O"] = "WANTED: Hole Escapee",
+    ["D"] = "WANTED: Hole Escapee",
+  },
+  [50322] = {
+    ["T"] = "WANTED: Myxomop!",
+    ["O"] = "WANTED: Myxomop!",
+    ["D"] = "WANTED: Myxomop!",
+  },
+  [70059] = {
+    ["T"] = "WANTED: Redridgeboss!",
+    ["O"] = "WANTED: Redridgeboss!",
+    ["D"] = "WANTED: Redridgeboss!",
+  },
+  [40226] = {
+    ["T"] = "Wally Wisecrack",
+    ["O"] = "Wally Wisecrack",
+    ["D"] = "Wally Wisecrack",
+  },
+  [40018] = {
+    ["T"] = "War on the Witherbark",
+    ["O"] = "War on the Witherbark",
+    ["D"] = "War on the Witherbark",
+  },
+  [40337] = {
+    ["T"] = "We Must Have Rum",
+    ["O"] = "We Must Have Rum",
+    ["D"] = "We Must Have Rum",
+  },
+  [40173] = {
+    ["T"] = "Weapons Laying About",
+    ["O"] = "Weapons Laying About",
+    ["D"] = "Weapons Laying About",
+  },
+  [80256] = {
+    ["T"] = "Welcome to Alah'Thalas",
+    ["O"] = "Welcome to Alah'Thalas",
+    ["D"] = "Welcome to Alah'Thalas",
+  },
+  [40102] = {
+    ["T"] = "What Lurks in the Dark",
+    ["O"] = "What Lurks in the Dark",
+    ["D"] = "What Lurks in the Dark",
+  },
+  [50240] = {
+    ["T"] = "What Once Was",
+    ["O"] = "What Once Was",
+    ["D"] = "What Once Was",
+  },
+  [80306] = {
+    ["T"] = "What's Yours is Ours",
+    ["O"] = "What's Yours is Ours",
+    ["D"] = "What's Yours is Ours",
+  },
+  [55036] = {
+    ["T"] = "Where's My Yeti Fur?!",
+    ["O"] = "Where's My Yeti Fur?!",
+    ["D"] = "Where's My Yeti Fur?!",
+  },
+  [40068] = {
+    ["T"] = "Wobble-free Fizz Gear",
+    ["O"] = "Wobble-free Fizz Gear",
+    ["D"] = "Wobble-free Fizz Gear",
+  },
+  [60008] = {
+    ["T"] = "Wool Would Work",
+    ["O"] = "Wool Would Work",
+    ["D"] = "Wool Would Work",
+  },
+  [80307] = {
+    ["T"] = "Yet Another Smoke Cloud Above Orgrimmar",
+    ["O"] = "Yet Another Smoke Cloud Above Orgrimmar",
+    ["D"] = "Yet Another Smoke Cloud Above Orgrimmar",
+  },
+  [60060] = {
+    ["T"] = "You Reap What You Sow",
+    ["O"] = "You Reap What You Sow",
+    ["D"] = "You Reap What You Sow",
+  },
+  [55217] = {
+    ["T"] = "Zabini's Information",
+    ["O"] = "Zabini's Information",
+    ["D"] = "Zabini's Information",
+  },
 }
